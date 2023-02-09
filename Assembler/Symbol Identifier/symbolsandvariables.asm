@@ -1,0 +1,12 @@
+@INFINITE_LOOP
+@counter
+@SCREEN
+@address
+(LOOP)
+@address
+@address
+@address
+@counter
+@LOOP
+(INFINITE_LOOP)
+@INFINITE_LOOP
