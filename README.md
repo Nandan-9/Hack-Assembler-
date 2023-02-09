@@ -15,4 +15,4 @@ The assignment compraised of 5 questions.
 5. Write a program to convert a standalone C instruction into binary (generate .hack output file)
 
 All the questions were completed on 19/1/2023
-The Project was done along with Viserion-7
+The Project was done along with [Viserion-7] (https://github.com/Viserion-7)
