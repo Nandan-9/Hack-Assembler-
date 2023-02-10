@@ -1,4 +1,4 @@
-# Assembler
+# Hack Assembler
 An assembler is a program that takes basic computer instructions and converts them into a pattern of bits that 
 the computer's processor can use to perform its basic operations.
 Our aim was to convert the Hack Assembly code to binary code.
