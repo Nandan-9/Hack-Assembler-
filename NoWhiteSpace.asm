@@ -1,0 +1,1 @@
+@SPAM=M-1D=MA=A-1M=D+M
